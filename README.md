@@ -18,6 +18,10 @@ This is a collection of deep learning resources for what our lab is interested i
 * Stanford - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * UC Berkeley - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
 
+### Videos
+
+* [Siraj Raval On Youtube](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
 
 ### Software
 
