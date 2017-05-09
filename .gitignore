@@ -1,0 +1,11 @@
+# DS file for macOS
+.*DS_Store
+
+# Configurations for IDE
+/.idea
+/.vscode
+
+# Python
+*.py[cod]
+*.pyxbld[cod]
+*.py.*
