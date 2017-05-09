@@ -35,6 +35,7 @@ This is a collection of deep learning resources for what our lab is interested i
 
 
 ### Books and Tutorials
+* [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) By Hastie, Tibshirani, and Friedman.
 * [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow and Yoshua Bengio and Aaron Courville [`Chinese Version`](https://github.com/exacity/deeplearningbook-chinese)
 * [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python](https://github.com/rasbt/deep-learning-book)
 * [Deep Learning Website](http://deeplearning.net)
